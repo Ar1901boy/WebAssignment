@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.top {
+    background-color: black;
+    max-width: 100%;
+    position: sticky;
+    top: 0px;
+}
+
+.a {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Tourney', cursive;
+    margin-left: 650px;
+    color: cyan;
+    max-width: 180px;
+}
+
+.imp {
+    background-color: #2618ba;
+    font-family: 'Tourney', cursive;
+    font-size: 30px;
+    color: rgb(255, 0, 106);
+    border-radius: 10px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 46px;
+}
+
+
+.main {
+    max-width: 50%;
+    padding-left: 400px;
+}
+
+.alpha {
+    margin-left: 10px;
+}
+
+.image {
+    height: 30px;
+}
+
+.foot {
+    text-align: center;
+    background-color: deepskyblue;
+    font-family: 'Tourney', cursive;
+    margin-top: 40px;
+    color:black;
+
+}
+
+.name {
+    font-family: 'Dancing Script', cursive;
+    border: 1px groove;
+    border-radius: 10px;
+    color:rgb(47, 255, 47)
+
+}
+
+i {
+    float: right;
+    padding-right: 5px;
+    padding-top: 5px;
+}
